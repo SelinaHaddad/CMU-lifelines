@@ -6,7 +6,7 @@ A new Flutter project.
 
 Seeds of Hope is an innovative mapping platform designed to support educational reconstruction in conflict-affected areas, starting with Syria. The app enables trusted users, such as NGOs and local educators, to add and verify the locations of displaced schools and universities. Users can view detailed school profiles, including their needs, challenges, and donation links, and contribute directly to their support. Powered by the Google Maps API and built with FlutterFlow, Seeds of Hope bridges the gap between effective mapping tools and user-friendly interactive interfaces to drive educational rebuilding through community-driven engagement and gamification.
 
-## Installation Insstructions
+## Installation Instructions
 Prerequisites
 Ensure you have the following installed on your system:
 - Flutter SDK: Installation guide
